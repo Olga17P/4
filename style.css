@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-color: rgba(3, 3, 54, 0.849);
+    
+}
+body{
+    background-color: rgba(30, 12, 112, 0.973);
+}
+& h1{ 
+text-align: center;
+color: aliceblue;
+}
